@@ -7,7 +7,6 @@
 
 💡 &nbsp;I have a passion for discovering emerging technologies and developing creative software solutions.\
 🎓 &nbsp;Currently pursuing a degree in Computer Science and Engineering at Chitkara University.\
-👨🏻‍💻 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I explore photography and Videography as hobbies and side hustles.\
 💬 &nbsp;Always open for brainstorming, collaborating, and meaningful conversations.\
 ✉️ &nbsp;Feel free to reach out at rohanjassofficial@gmail.com! I'll do my best to reply promptly.
