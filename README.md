@@ -11,7 +11,7 @@
 💬 &nbsp;Always open for brainstorming, collaborating, and meaningful conversations.\
 ✉️ &nbsp;Feel free to reach out at rohanjassofficial@gmail.com! I'll do my best to reply promptly.
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
